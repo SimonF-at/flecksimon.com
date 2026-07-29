@@ -1,0 +1,11 @@
+# Node artifacts
+node_modules/
+
+# MacOS
+.DS_Store
+
+# GitHub Pages
+*.log
+
+# Local-only personal strategy docs — never published
+.ai/

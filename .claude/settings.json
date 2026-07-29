@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(convert /home/dawn/Projects/flecksimon.com/public/assets/brand/favicon/favicon-16x16.png /home/dawn/Projects/flecksimon.com/public/assets/brand/favicon/favicon-32x32.png /home/dawn/Projects/flecksimon.com/public/assets/brand/favicon/favicon-48x48.png /home/dawn/Projects/flecksimon.com/public/assets/brand/favicon/favicon.ico)",
+      "Bash(inkscape /home/dawn/Projects/flecksimon.com/public/assets/brand/logo/orbital-s-mark-dark.svg --export-type=png --export-filename=/home/dawn/Projects/flecksimon.com/public/assets/brand/logo/orbital-s-mark-dark.png -w 512 -h 512)",
+      "Bash(inkscape /home/dawn/Projects/flecksimon.com/public/assets/brand/logo/orbital-s-mark-light.svg --export-type=png --export-filename=/home/dawn/Projects/flecksimon.com/public/assets/brand/logo/orbital-s-mark-light.png -w 512 -h 512)",
+      "Bash(inkscape /home/dawn/Projects/flecksimon.com/public/assets/brand/favicon/favicon.svg --export-type=png --export-filename=/home/dawn/Projects/flecksimon.com/public/assets/brand/favicon/favicon-16x16.png -w 16 -h 16)",
+      "Bash(inkscape /home/dawn/Projects/flecksimon.com/public/assets/brand/favicon/favicon.svg --export-type=png --export-filename=/home/dawn/Projects/flecksimon.com/public/assets/brand/favicon/favicon-32x32.png -w 32 -h 32)",
+      "Bash(inkscape /home/dawn/Projects/flecksimon.com/public/assets/brand/favicon/favicon.svg --export-type=png --export-filename=/home/dawn/Projects/flecksimon.com/public/assets/brand/favicon/favicon-48x48.png -w 48 -h 48)",
+      "Bash(convert /home/dawn/Projects/flecksimon.com/public/brand/mark-dark.png -resize 16x16 /home/dawn/Projects/flecksimon.com/public/brand/favicon-16.png)",
+      "Bash(convert /home/dawn/Projects/flecksimon.com/public/brand/mark-dark.png -resize 32x32 /home/dawn/Projects/flecksimon.com/public/brand/favicon-32.png)",
+      "Bash(convert /home/dawn/Projects/flecksimon.com/public/brand/mark-dark.png -resize 48x48 /home/dawn/Projects/flecksimon.com/public/brand/favicon-48.png)",
+      "Bash(convert /home/dawn/Projects/flecksimon.com/public/brand/mark-dark.png -resize 180x180 /home/dawn/Projects/flecksimon.com/public/brand/apple-touch-icon.png)",
+      "Bash(convert /home/dawn/Projects/flecksimon.com/public/brand/mark-dark.png -resize 192x192 /home/dawn/Projects/flecksimon.com/public/brand/icon-192.png)"
+    ]
+  }
+}
